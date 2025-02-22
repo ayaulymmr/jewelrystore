@@ -30,3 +30,5 @@ Suppliers Collection: Holds supplier details.
 Security:
 Authentication: Uses JWT tokens.
 Authorization: Restricts access based on roles.
+
+Presentation:https://www.canva.com/design/DAGbiguFzlU/X7OBttMP95098-GiQ4DquQ/edit?utm_content=DAGbiguFzlU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
