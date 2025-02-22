@@ -1,0 +1,27 @@
+{
+    "products": [
+      {
+        "name": "Gold Necklace",
+        "price": 1500,
+        "supplier": "65d6b9f3e13e8c001a6b1a7f"
+      },
+      {
+        "name": "Diamond Ring",
+        "price": 2500,
+        "supplier": "65d6b9f3e13e8c001a6b1a80"
+      }
+    ],
+    "suppliers": [
+      {
+        "_id": "65d6b9f3e13e8c001a6b1a7f",
+        "name": "Luxury Gems",
+        "contact": "luxurygems@example.com"
+      },
+      {
+        "_id": "65d6b9f3e13e8c001a6b1a80",
+        "name": "Elite Jewels",
+        "contact": "elitejewels@example.com"
+      }
+    ]
+  }
+  
